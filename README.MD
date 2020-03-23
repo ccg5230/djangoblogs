@@ -1,7 +1,7 @@
 python3基于django2博客系统及后台管理
 ===============================
 
-启动方式：python manage.py runserver 192.168.16.113:8000
+## 启动方式：python manage.py runserver 192.168.16.113:8000
 ----------------
 
 主要功能块：
